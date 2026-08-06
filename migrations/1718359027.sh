@@ -40,7 +40,6 @@ source $OMAKDEB_PATH/install/desktop/set-gnome-settings.sh
 # Install new apps
 source $OMAKDEB_PATH/install/desktop/a-flatpak.sh
 source $OMAKDEB_PATH/install/desktop/app-gnome-sushi.sh
-source $OMAKDEB_PATH/install/desktop/app-localsend.sh
 source $OMAKDEB_PATH/install/desktop/app-obsidian.sh
 source $OMAKDEB_PATH/install/terminal/app-fastfetch.sh
 source $OMAKDEB_PATH/install/terminal/apps-terminal.sh

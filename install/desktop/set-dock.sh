@@ -7,7 +7,6 @@ apps=(
 	"Neovim.desktop"
 	"code.desktop"
 	"WhatsApp.desktop"
-	"signal-desktop.desktop"
 	"Zoom.desktop"
 	"spotify.desktop"
 	"steam.desktop"
@@ -19,7 +18,6 @@ apps=(
 	"1password.desktop"
 	"org.gnome.Settings.desktop"
 	"org.gnome.Nautilus.desktop"
-	"localsend_app.desktop"
 )
 
 # Array to hold installed favorite apps
